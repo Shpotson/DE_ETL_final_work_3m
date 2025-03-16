@@ -13,7 +13,7 @@ In DAGs list you can find several DAGs I created (tag = 'orders_system').
 
 ## How to generate test data:
 
-To generate Postgres test data run DAG `generate_data`
+To generate MongoDB test data run DAG `generate_data`
 
 ## How to replicate data:
 
