@@ -19,10 +19,7 @@ To generate Postgres test data run DAG `generate_data`
 
 Run DAG named `async_replicator`.
 
-DAG `async_replicator` runs every 15 min 
-
-> **Warning**
-> For correct work check if MSSQL container `orders-ms-sql-db` runs. If it does not, re run it again from docker desktop app
+DAG `async_replicator` runs every 60 min 
 
 ## How to create marts:
 
