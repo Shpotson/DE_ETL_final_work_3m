@@ -1,5 +1,5 @@
 # async_replication
-Airflow example for async data replication from Postgres to MSSQL + creating marts.
+Airflow example for async data replication from MongoDb to Postgres + creating marts.
 
 ## How to run:
 Install Docker (I used Docker with Docker desktop app)
